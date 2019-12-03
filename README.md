@@ -1,6 +1,8 @@
 # upload-and-clip-image
 
 [![Build Status](https://travis-ci.org/dudumifan/upload-and-clip-image.svg?branch=master)](https://travis-ci.org/dudumifan/upload-and-clip-image)
+[![codecov](https://codecov.io/gh/dudumifan/upload-and-clip-image/branch/master/graph/badge.svg)](https://codecov.io/gh/dudumifan/upload-and-clip-image)
+
 
 - 使用 Vue + Element-ui + Vuex, 
 - 可提前限制上传图片的分辨率比例，用以适配固定图片比例的场景
