@@ -7,9 +7,9 @@
 - 可灵活控制需要裁减上传的图片的大小，仅从完整图中裁减需要的部分。
 - 如果需求是不限制原始图的大小比例，且最终图需要符合预定的比例，则可修改代码为比例不符合时进行填白处理
 
-- 演示地址: 
+- 演示地址[请戳这里](https://dudumifan.github.io/upload-and-clip-image/)
 
-- 博客[https://my.oschina.net/mdu]
+- [个人博客](https://my.oschina.net/mdu)
 
 ## Project setup
 ```
